@@ -42,3 +42,5 @@
 
 #Hardware manuals and diagrams
 Documentation/*
+
+.vscode/*

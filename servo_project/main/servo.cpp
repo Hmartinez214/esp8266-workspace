@@ -1,9 +1,9 @@
 /**
  * @author Holden Martinez
- * @file Servo.cpp
+ * @file servo.cpp
  * @date 4/2/2026
  */
-#include "Servo.h"
+#include "servo.h"
 #include "driver/mcpwm_prelude.h"
 
 #define SERVO_TIMEBASE_RESOLUTION_HZ 1000000

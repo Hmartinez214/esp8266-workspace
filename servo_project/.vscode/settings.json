@@ -13,7 +13,7 @@
   "clangd.arguments": [
     "--background-index",
     "--query-driver=**",
-    "--compile-commands-dir=c:\\Users\\holde\\sample_project\\build"
+    "--compile-commands-dir=c:\\Users\\holde\\servo_project\\build"
   ],
   "idf.flashType": "UART"
 }
